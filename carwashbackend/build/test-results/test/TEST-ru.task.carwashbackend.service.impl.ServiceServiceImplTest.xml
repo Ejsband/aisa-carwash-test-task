@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.task.carwashbackend.service.impl.ServiceServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-09-18T12:23:57" hostname="PUSIK" time="1.003">
+  <properties/>
+  <testcase name="saveTest()" classname="ru.task.carwashbackend.service.impl.ServiceServiceImplTest" time="0.97"/>
+  <testcase name="deleteByIdTest()" classname="ru.task.carwashbackend.service.impl.ServiceServiceImplTest" time="0.011"/>
+  <testcase name="findAllTest()" classname="ru.task.carwashbackend.service.impl.ServiceServiceImplTest" time="0.004"/>
+  <testcase name="findByIdTest()" classname="ru.task.carwashbackend.service.impl.ServiceServiceImplTest" time="0.004"/>
+  <testcase name="testUpdate()" classname="ru.task.carwashbackend.service.impl.ServiceServiceImplTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
